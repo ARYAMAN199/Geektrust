@@ -1,0 +1,15 @@
+/* Row.css */
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 5px;
+    text-align: center;
+  }
+  
